@@ -1,4 +1,22 @@
 div.container{
-    height: 100vh;
+    margin-bottom: 1.5rem;
     background-color: bisque;
+}
+
+div.blue{
+    height: 50px;
+    background-color: blue;
+    border: 1px solid white;
+}
+
+div.nasted-blue{
+    padding: .5rem;
+    background-color: blue;
+    border: 1px solid white;
+}
+
+div.green{
+    height: 50px;
+    background-color: rgb(40, 212, 40);
+    border: 1px solid blue;
 }
