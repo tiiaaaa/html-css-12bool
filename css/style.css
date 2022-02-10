@@ -1,6 +1,6 @@
 div.container{
     margin-bottom: 1.5rem;
-    background-color: bisque;
+    /* background-color: bisque; */
 }
 
 div.blue{
@@ -19,4 +19,15 @@ div.green{
     height: 50px;
     background-color: rgb(40, 212, 40);
     border: 1px solid blue;
+}
+
+div.white{
+    height: 50px;
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
